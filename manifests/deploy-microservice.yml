@@ -20,7 +20,7 @@ spec:
                 source: demo
         spec:
             containers:
-                -   image: 465848653329.dkr.ecr.us-west-2.amazonaws.com/flexible-danger-microservice
+                -   image: 465848653329.dkr.ecr.us-west-2.amazonaws.com/flexibledanger-microservice
                     name: flexible-danger-microservice
                     ports:
                         -   name: web
